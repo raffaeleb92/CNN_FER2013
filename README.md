@@ -5,7 +5,9 @@ This project aims to use Convolutional Neural Networks and PyTorch to recognize 
 
 ## Description
 
-FERKDis a deep model that consists of 5 convolutional layers and 1 full-connected layerto perform multiclass classification. 
+![alt text](https://github.com/raffaeleb92/CNN_FER2013/blob/main/fer_kd_architecture.png)
+
+FERK_D is a deep model that consists of 5 convolutional layers and 1 full-connected layerto perform multiclass classification. 
 Input pictures (48x48 faces pictures) flowsfrom the beginning to the end of the model.  The model ultimately classify the emotion ofthe picture in one of the 7 classes (angry, disgust, fear, happy, sad, surprise and neutral).
 
 
